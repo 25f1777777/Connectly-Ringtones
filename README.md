@@ -14,18 +14,6 @@ A collection of MP3 ringtones hosted on GitHub for use in the Connectly applicat
 | 6 | Maldaram Leneodinira | [Download / Play](https://raw.githubusercontent.com/25f1777777/Connectly-Ringtones/main/Maldaram_leneodinira.mp3) |
 | 7 | Meesaala Pilla | [Download / Play](https://raw.githubusercontent.com/25f1777777/Connectly-Ringtones/main/Meesaala_Pilla.mp3) |
 
-## Usage
-
-Use the direct MP3 URLs in your frontend:
-
-```javascript
-const ringtoneUrl =
-  "https://raw.githubusercontent.com/25f1777777/Connectly-Ringtones/main/DM_BGM.mp3";
-
-const audio = new Audio(ringtoneUrl);
-audio.play();
-```
-
 ## Base URL
 
 ```text
